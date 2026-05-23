@@ -9971,9 +9971,9 @@ menu() {
     cd "$HOME" || exit
     echoContent red "\n=============================================================="
     echoContent green "作者：wei3470231"
-    echoContent green "当前版本：v3.5.19"
+    echoContent green "当前版本：v0.1.0"
     echoContent green "Github：https://github.com/wei3470231/v2ray-agent"
-    echoContent green "描述：八合一共存脚本\c"
+    echoContent green "QQ:214120305"
     showInstallStatus
     checkWgetShowProgress
 
